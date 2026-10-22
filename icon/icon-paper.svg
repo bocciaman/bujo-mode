@@ -1,0 +1,22 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="tile"><rect x="76" y="76" width="872" height="872" rx="196"/></clipPath>
+<pattern id="dots" width="60" height="60" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="4" fill="#26243f" opacity="0.13"/></pattern>
+</defs>
+<rect x="76" y="76" width="872" height="872" rx="196" fill="#efe7d3"/>
+<rect x="76" y="76" width="872" height="872" fill="url(#dots)" clip-path="url(#tile)"/>
+<g font-family="'SF Pro Rounded','Arial Rounded MT Bold',system-ui,sans-serif" font-weight="800" text-anchor="middle" dominant-baseline="central">
+<g font-size="120" font-weight="700">
+<text x="287" y="300" fill="#e0533d">•</text>
+<text x="437" y="300" fill="#26243f">–</text>
+<text x="587" y="300" fill="#26243f">=</text>
+<text x="737" y="290" fill="#26243f">○</text>
+</g>
+<g font-size="300" fill="#26243f">
+<text x="227" y="620">b</text>
+<text x="417" y="620">u</text>
+<text x="607" y="620">j</text>
+<text x="797" y="620">o</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+# SwiftPM / build output
+.build/
+build/
+DerivedData/
+
+# Icon intermediates (SVG sources, PNGs and .icns are tracked)
+icon/*.iconset/
+
+# Xcode user data (if opened in Xcode)
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+
+# macOS
+.DS_Store
